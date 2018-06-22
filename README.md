@@ -1,4 +1,4 @@
-# homeworks-deadline app
+# frostcloudhomeworks-deadline app
 - a graphql server (with prisma in folder graphql-server)
 - a client app (with next.js, can deploy with now)
 
